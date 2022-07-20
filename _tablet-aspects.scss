@@ -1,0 +1,20 @@
+$surface-duo: '(min-width: 540px) and (min-height: 720px)';
+$surface-duo-flipped: '(min-width: 720px) and (min-height: 540px)';
+$responsive-tablet: '(min-width: 600px) and (min-height: 900px)';
+$responsive-tablet-flipped: '(min-width: 900px) and (min-height: 600px)';
+$blackberry-playbook: '(min-width: 600px) and (min-height: 1024px)';
+// blackberry-playbook-flipped -> nest-hub
+$galaxy-tab-s4: '(min-width: 712px) and (min-height: 1138px)';
+$galaxy-tab-s4-flipped: '(min-width: 1138px) and (min-height: 712px)';
+$ipad-mini: '(min-width: 768px) and (min-height: 1024px)';
+$ipad-mini-flipped: '(min-width: 1024px) and (min-height: 768px)';
+$nexus-10: '(min-width: 800px) and (min-height: 1280px)';
+$nexus-10-flipped: '(min-width: 1280px) and (min-height: 800px)';
+$surface-pro-7: '(min-width: 912px) and (min-height: 1200px)'; // responsive
+$surface-pro-7-flipped: '(min-width: 1200px) and (min-height: 912px)'; // responsive
+$nest-hub: '(min-width: 1024px) and (min-height: 600px)';
+$nest-hub-flipped: '(min-width: 600px) and (min-height: 1024px)';
+$tablet-responsive-2: '(min-width: 1024px) and (min-height: 768px)';
+$tablet-responsive-2-flipped: '(min-width: 768px) and (min-height: 1024px)';
+$nest-hub-max: '(min-width: 1280px) and (min-height: 800px)';
+$nest-hub-max-flipped: '(min-width: 800px) and (min-height: 1280px)';
